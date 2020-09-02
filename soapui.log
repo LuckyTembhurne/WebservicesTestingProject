@@ -1,0 +1,64 @@
+2020-09-01 23:19:12,814 WARN  [SoapUI] Missing folder [C:\Users\LuckyTembhurne\Desktop\SDET\WebServicesProject\my-app\ext] for external libraries
+2020-09-01 23:19:13,080 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\LuckyTembhurne\soapui-settings.xml]
+2020-09-01 23:19:13,921 INFO  [WsdlProject] Loaded project from [file:/C:/Users/LuckyTembhurne/Desktop/SDET/WebServicesProject/my-app/Assignment-soapui-project.xml]
+2020-09-01 23:19:14,682 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Assignment]
+2020-09-01 23:19:14,684 INFO  [SoapUITestCaseRunner] Running Project [Assignment], runType = SEQUENTIAL
+2020-09-01 23:19:14,713 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Property and Property Transfer]
+2020-09-01 23:19:14,767 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-09-01 23:19:14,858 INFO  [SoapUITestCaseRunner] running step [Property Transfer new customer]
+2020-09-01 23:19:15,187 INFO  [SoapUITestCaseRunner] running step [new customer]
+2020-09-01 23:19:16,839 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-01 23:19:16,839 INFO  [SoapUITestCaseRunner] running step [Property Transfer to get customer by id]
+2020-09-01 23:19:16,845 INFO  [SoapUITestCaseRunner] running step [get cusotmer by id]
+2020-09-01 23:19:17,768 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-01 23:19:17,769 INFO  [SoapUITestCaseRunner] running step [list of all customers]
+2020-09-01 23:19:26,761 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-01 23:19:26,762 INFO  [SoapUITestCaseRunner] running step [Property Transfer delete customer by id]
+2020-09-01 23:19:26,768 INFO  [SoapUITestCaseRunner] running step [delete customer by id]
+2020-09-01 23:19:27,684 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-01 23:19:27,685 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Property and Property Transfer], time taken: 12887ms, status: FINISHED
+2020-09-01 23:19:27,697 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Property and Property Expansion]
+2020-09-01 23:19:27,698 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-09-01 23:19:27,699 INFO  [SoapUITestCaseRunner] running step [new customer]
+2020-09-01 23:19:28,485 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-01 23:19:28,486 INFO  [SoapUITestCaseRunner] running step [get cusotmer by id]
+2020-09-01 23:19:29,239 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-01 23:19:29,240 INFO  [SoapUITestCaseRunner] running step [list of all customers]
+2020-09-01 23:19:35,755 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-01 23:19:35,757 INFO  [SoapUITestCaseRunner] running step [delete customer by id]
+2020-09-01 23:19:36,502 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-01 23:19:36,503 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Property and Property Expansion], time taken: 8791ms, status: FINISHED
+2020-09-01 23:19:36,513 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Groovy Script(Running Property and Property Expansion)]
+2020-09-01 23:19:36,513 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2020-09-01 23:19:37,110 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Property and Property Expansion]
+2020-09-01 23:19:37,111 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-09-01 23:19:37,113 INFO  [SoapUITestCaseRunner] running step [new customer]
+2020-09-01 23:19:37,945 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-01 23:19:37,946 INFO  [SoapUITestCaseRunner] running step [get cusotmer by id]
+2020-09-01 23:19:38,875 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-01 23:19:38,877 INFO  [SoapUITestCaseRunner] running step [list of all customers]
+2020-09-01 23:19:45,008 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-01 23:19:45,008 INFO  [SoapUITestCaseRunner] running step [delete customer by id]
+2020-09-01 23:19:45,764 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-01 23:19:45,765 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Property and Property Expansion], time taken: 8638ms, status: FINISHED
+2020-09-01 23:19:45,785 INFO  [log] Status=FINISHED, time taken to complete is :8638 ms
+2020-09-01 23:19:45,816 INFO  [log] number of test steps executed are :5
+2020-09-01 23:19:45,817 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Groovy Script(Running Property and Property Expansion)], time taken: 9301ms, status: FINISHED
+2020-09-01 23:19:45,824 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Property and Groovy Script Assertions]
+2020-09-01 23:19:45,825 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-09-01 23:19:45,826 INFO  [SoapUITestCaseRunner] running step [new customer]
+2020-09-01 23:19:46,753 INFO  [log] 5818
+2020-09-01 23:19:46,787 INFO  [log] lucy@gmail.com
+2020-09-01 23:19:46,791 INFO  [log] Lucky
+2020-09-01 23:19:46,795 INFO  [log] Tembhurne
+2020-09-01 23:19:46,796 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-01 23:19:46,797 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion response] has status VALID
+2020-09-01 23:19:46,799 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion request] has status VALID
+2020-09-01 23:19:46,799 INFO  [SoapUITestCaseRunner] running step [get cusotmer by id]
+2020-09-01 23:19:47,563 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-01 23:19:47,564 INFO  [SoapUITestCaseRunner] running step [list of all customers]
+2020-09-01 23:19:54,062 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-01 23:19:54,062 INFO  [SoapUITestCaseRunner] running step [delete customer by id]
+2020-09-01 23:19:55,524 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-09-01 23:19:55,524 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Property and Groovy Script Assertions], time taken: 9685ms, status: FINISHED
+2020-09-01 23:19:55,527 INFO  [SoapUITestCaseRunner] Project [Assignment] finished with status [FINISHED] in 40834ms
